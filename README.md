@@ -13,5 +13,6 @@ Under this project we were given a credit card dataset for 30000 customers, whic
 ## Final Project
 American Sign Language (ASL) is the primary language used by many deaf individuals in North America, and it is also used by hard-of-hearing and hearing individuals. The language is as rich as spoken languages and employs signs made with the hand, along with facial gestures and bodily postures. Our task was to build a Deep Learning Model to classify the Hand Signs into English alphabets. The model which we built can classify 10 Hand signs into their alphabets with 99% accuracy.<br>
 <b>Final Project Report:</b> [Final Project Report Link](https://github.com/venugopalkadamba/Technocolabs-Data-Science-Internship/blob/master/FINAL%20PROJECT%20REPORT.pdf)
+<br>
 <b>Final Project Report Web APP:</b> [Web APP](https://asl-recognition1.herokuapp.com/)
 
